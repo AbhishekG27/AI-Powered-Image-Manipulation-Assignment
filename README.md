@@ -2,6 +2,7 @@
 
 An AI-powered web application that allows users to replace shoes in images, change shoe colors, modify backgrounds, and apply photo effects with professional-quality results.
 
+**Run In Google Colab or GPU system**
 
 ## 🌟 Features
 

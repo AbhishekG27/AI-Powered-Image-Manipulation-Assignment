@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Initialize Hugging Face Inference Client
 client = InferenceClient(
     provider="hf-inference",
-    api_key="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"
+    api_key="api"
 )
 
 # Generate Image

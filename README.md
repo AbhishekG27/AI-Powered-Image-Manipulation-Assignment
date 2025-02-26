@@ -43,6 +43,7 @@ An AI-powered web application that allows users to replace shoes in images, chan
    ```
    pip install -r requirements.txt
    ```
+   
 
 4. Run the specific scripts based on your task:
 - **Shoe Replacement**:  

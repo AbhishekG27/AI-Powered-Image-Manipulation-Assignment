@@ -2,7 +2,6 @@
 
 An AI-powered web application that allows users to replace shoes in images, change shoe colors, modify backgrounds, and apply photo effects with professional-quality results.
 
-![Shoe Replacement Demo]([https://github.com/yourusername/shoe-replacement-editor/assets/demo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6462327-Shoe-GIF-for-Online-Product-Customizer-Product-Demo&psig=AOvVaw1layStLbrTPD3_bkIcW726&ust=1740664447857000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDty8O-4YsDFQAAAAAdAAAAABAE))
 
 ## 🌟 Features
 

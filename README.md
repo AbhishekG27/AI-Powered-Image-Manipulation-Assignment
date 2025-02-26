@@ -62,9 +62,6 @@ An AI-powered web application that allows users to replace shoes in images, chan
   streamlit run main.py
   ```
 
-5. The application will automatically download the SAM model weights on the first run if they are not already present.
-
-
 The application will automatically download the SAM model weights on first run if they are not already present.
 
 ## 📊 How It Works

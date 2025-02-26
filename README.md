@@ -44,10 +44,26 @@ An AI-powered web application that allows users to replace shoes in images, chan
    pip install -r requirements.txt
    ```
 
-4. Run the application:
-   ```
-   streamlit run app.py
-   ```
+4. Run the specific scripts based on your task:
+- **Shoe Replacement**:  
+  ```
+  python Advanced_Shoe_Image_Replacement.py
+  ```
+- **Shoe Editing (Color & Background Changes)**:  
+  ```
+  python Shoe_Editor_with_Multiple_Color_&_Background_Options.py
+  ```
+- **AI Shoe Generation (Using Hugging Face)**:  
+  ```
+  python Shoe_generation.py
+  ```
+- **Full Streamlit Application** (for Color Editing, Background Manipulation, and Photo Effects):  
+  ```
+  streamlit run main.py
+  ```
+
+5. The application will automatically download the SAM model weights on the first run if they are not already present.
+
 
 The application will automatically download the SAM model weights on first run if they are not already present.
 

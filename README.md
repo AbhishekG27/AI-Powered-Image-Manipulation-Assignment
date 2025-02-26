@@ -112,7 +112,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-If you have any questions or feedback, please open an issue on GitHub or contact [aasthab@gmail.com](mailto:2022abhishek.g@vidyashilp.edu.in).
+If you have any questions or feedback, please open an issue on GitHub or contact [aasthab@gmail.com][2022abhishek.g@vidyashilp.edu.in].
 
 ---
 
